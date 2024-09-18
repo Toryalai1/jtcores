@@ -14,7 +14,7 @@ volume = [
 
 [buttons]
 Names = [
-    { names="Shot,Jump"},
+    { names="Shoot/Kick,Jump"},
 ]
 
 [dipsw]

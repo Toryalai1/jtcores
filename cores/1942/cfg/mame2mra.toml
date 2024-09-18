@@ -38,8 +38,8 @@ data = [
 
 [buttons]
 names=[
-    { machine="1942",    names="Shoot,Roll" },
-    { machine="vulgus",  names="Shoot,Bomb" },
+    { machine="1942",    names="Shoot,Loop" },
+    { machine="vulgus",  names="Shoot,Missile" },
     { machine="higemaru",names="Action"     }
 ]
 
